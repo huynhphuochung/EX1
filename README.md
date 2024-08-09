@@ -1,2 +1,2 @@
 # EX1
-Hoc git
+Hoc github
